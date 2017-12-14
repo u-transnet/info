@@ -2,7 +2,14 @@
 https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2F<имя_файла.xml> или воспользоваться одной из представленных ниже
 
 ## Содержание
-- [Книга диаграмм](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Fconcept-full.xml) концепции TRANSNET SPACE (общий альбом)
+### Диаграммы концепции:
 - [Общая схема](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Fconcept-parties.xml) участников, взаимодействующих в TRANSNET SPACE
+
+- [Альбом](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Fconcept-full.xml) диаграмм концепции TRANSNET SPACE
+
+Некоторые диаграммы отдельно (включены в альбом):
+- [M8](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Fconcept-mpa-economy-m8-erc20.xml) Сценарий запуска Нового Инфраструктурного Направления (на примере UTCORE)
+
+### Прочее:
 - [Книга](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Fconcept-slide-art.xml) набросков иллюстративного материала для концепта
 - [Модель](https://www.draw.io/#Hu-transnet%2Finfo%2Fmaster%2Fdrawings%2Freferral-model-proposal.xml) варианта реферальной системы (не для реализации в проекте, just for fun)
